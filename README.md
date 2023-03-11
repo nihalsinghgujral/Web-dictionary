@@ -1,6 +1,6 @@
 # WEB-DICTIONARY
 Tired of using complex managing software? and you are in need of a simple manager that works according to you?. Organizing your web links had never been easier, the most simplest way is here.
-*****************************************************************************
+
 WELCOME TO THE WEB DICTIONARY:
 why use it?
 -to store all your web links in a very efficient way just in one place.
@@ -18,7 +18,5 @@ HOW TO USE?
 5.2. unzip it, and click on the web dictionary application.
 6. enjoy the software!
 
-ENJOY USING THE SOFTWARE
-----------CREATED BY ANCHIT RANA----------------
-.PHANTOM.
-*******************************************************************************
+
+
